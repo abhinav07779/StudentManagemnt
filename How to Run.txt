@@ -1,0 +1,27 @@
+How to Run
+
+Save the code to a file named StudentManagement.java
+
+Open terminal/command prompt and compile:
+
+javac StudentManagement.java
+
+
+Run the program:
+
+java StudentManagement
+
+
+Follow the on-screen menu to manage student records:
+
+Add
+
+Search
+
+Update
+
+Delete
+
+Display
+
+Display Sorted
