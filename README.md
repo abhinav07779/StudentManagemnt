@@ -1,0 +1,2 @@
+# StudentManagemnt
+DSA MINI PROJECT
